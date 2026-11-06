@@ -7,11 +7,11 @@ const PROJECTS = [
     name: "Pratas da Ari",
     image: "/projetos/ari-pratas.png",
     kind: "E-commerce de joalheria",
-    text: "Loja completa com carrinho, cupons, checkout com Mercado Pago (PIX e cartão), avaliações e painel administrativo.",
+    text: "Loja completa com carrinho, cupons, checkout com Mercado Pago (PIX e cartão), avaliações e painel administrativo.Por ser um projeto de mostruario o link não é com o nome do site",
     stack: ["Django", "PostgreSQL", "Mercado Pago"],
     gradient: "from-blue-600 to-sky-300",
     featured: true,
-    href: "#",
+    href: "https://leonardomotta1.pythonanywhere.com/",
   },
   /*{
     name: "BarberFlow",
